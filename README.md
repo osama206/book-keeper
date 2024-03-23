@@ -54,7 +54,7 @@ You can view a live demo of Book Keeper [here](https://osama206.github.io/book-k
 - Background Patterns: [Hero Patterns](https://www.heropatterns.com/)
 - Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&q=close&m=free)
 
-  ### Documentation:
+### Documentation:
 
 - Vertical Alignment Reference: [W3Schools](https://www.w3schools.com/cssref/pr_pos_vertical-align.asp)
 - Label Element Documentation: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
