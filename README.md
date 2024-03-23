@@ -67,3 +67,5 @@ You can view a live demo of Book Keeper [here](https://osama206.github.io/book-k
 - JSON Stringify Method: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 - Local Storage Documentation: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - Array Splice Method: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+
+These resources were crucial in the development of this project, providing valuable information and assets necessary for its implementation.
